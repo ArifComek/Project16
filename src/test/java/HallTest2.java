@@ -1,0 +1,2 @@
+public class HallTest2 {
+}
